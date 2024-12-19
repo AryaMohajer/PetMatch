@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "kitty-2602111_1920-7406fe99c65c4c8882a27ecf7d428465.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
